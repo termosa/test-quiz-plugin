@@ -1,0 +1,16 @@
+{
+  "name": "test-quiz-plugin",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Stanislav Termosa <termosa.stanislav@gmail.com> (https://github.com/termosa)",
+  "license": "MIT",
+  "dependencies": {
+    "go": "^3.0.0-rc.5",
+    "go-plugin-quiz": "^3.0.0"
+  }
+}
